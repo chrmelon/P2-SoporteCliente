@@ -6,6 +6,7 @@ Este proyecto implementa un sistema de **FAQs inteligente basado en Retrieval-Au
 
 # 📁 Estructura del Proyecto
 
+```bash
 project/
 │
 ├── src/
@@ -13,18 +14,21 @@ project/
 │   ├── query.py
 │   ├── logger.py
 │   └── chroma_db/
+│
 ├── config.yaml
 ├── pyproject.toml
 ├── requirements.txt
 ├── .env
-├── main.py               # archivo py que realiza una pregunta al asistente
-├── sample_queries.py     # archivo py que genera la salida sample_queries.json
+├── main.py               # ejecuta una pregunta al asistente
+├── sample_queries.py     # genera sample_queries.json
+│
 ├── output/
 │   └── sample_queries.json
+│
 ├── data/
-│   └── faq_document.txt
-│   └── questions.json    # preguntas que se responden en la salida sample_queries.json
----
+│   ├── faq_document.txt
+│   └── questions.json    # preguntas usadas para generar sample_queries.json
+```
 
 # ⚙️ Setup
 
