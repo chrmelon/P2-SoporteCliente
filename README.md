@@ -6,7 +6,7 @@ Este proyecto implementa un sistema de **FAQs inteligente basado en Retrieval-Au
 
 # 📁 Estructura del Proyecto
 
-
+```bash
 |-- src/
 |   |-- build_index.py
 |   |-- query.py
@@ -24,6 +24,7 @@ Este proyecto implementa un sistema de **FAQs inteligente basado en Retrieval-Au
 |-- README.md
 |-- .end
 |-- .gitignore
+```
 
 ---
 
