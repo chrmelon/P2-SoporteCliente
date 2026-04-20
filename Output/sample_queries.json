@@ -1,0 +1,226 @@
+[
+  {
+    "user_question": "¿Cómo solicito vacaciones?",
+    "system_answer": "Para solicitar vacaciones, debes seguir estos pasos:\n\n1. Ingresar a la sección \"Vacaciones\"\n2. Seleccionar fechas\n3. Enviar solicitud\n\nEl manager recibirá una notificación para aprobar o rechazar tu solicitud.",
+    "chunks_related": [
+      {
+        "content": "3. Solicitudes de vacaciones\n\nLos empleados pueden solicitar vacaciones desde el módulo correspondiente. El proceso es el siguiente:\n\n1. Ingresar a la sección \"Vacaciones\"\n2. Seleccionar fechas\n3. Enviar solicitud\n\nEl manager recibirá una notificación para aprobar o rechazar.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "4. Políticas de vacaciones\n\nLas vacaciones se calculan en función de la antigüedad del empleado:\n\n- Menos de 1 año: 10 días\n- 1 a 5 años: 15 días\n- Más de 5 años: 20 días\n\nLas políticas pueden variar según la empresa.\n\n5. Gestión de ausencias",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "- Administrador\n- Manager\n- Empleado\n\nLos permisos dependen del rol. Por ejemplo, los empleados pueden ver su información personal, mientras que los administradores tienen acceso completo.\n\n3. Solicitudes de vacaciones",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 10,
+      "justification": "La respuesta es completamente relevante y precisa, siguiendo los pasos correctos para solicitar vacaciones tal como se indica en el contexto. Además, utiliza correctamente la información proporcionada y es completa en su explicación del proceso."
+    }
+  },
+  {
+    "user_question": "¿Cómo informo una ausencia?",
+    "system_answer": "Para informar una ausencia, debes seguir estos pasos:\n\n1. Registrar el tipo de ausencia: enfermedad, licencia especial o permisos personales.\n2. Justificar la ausencia.\n3. Obtener la aprobación correspondiente.",
+    "chunks_related": [
+      {
+        "content": "5. Gestión de ausencias\n\nEl sistema permite registrar distintos tipos de ausencias:\n\n- Enfermedad\n- Licencia especial\n- Permisos personales\n\nCada ausencia debe ser justificada y aprobada.\n\n6. Evaluaciones de desempeño\n\nLos managers pueden evaluar a sus equipos mediante formularios configurables.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "4. Políticas de vacaciones\n\nLas vacaciones se calculan en función de la antigüedad del empleado:\n\n- Menos de 1 año: 10 días\n- 1 a 5 años: 15 días\n- Más de 5 años: 20 días\n\nLas políticas pueden variar según la empresa.\n\n5. Gestión de ausencias",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "--- Notificaciones ---\nLos empleados reciben notificaciones por email y dentro del sistema.\n\n--- Roles y permisos ---\nExisten distintos niveles de acceso según el rol del usuario.\n\n--- Reportes ---\nEl sistema permite generar reportes de:\n- Ausencias\n- Vacaciones\n- Desempeño",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 9,
+      "justification": "La respuesta es relevante y utiliza correctamente el contexto al mencionar los tipos de ausencia y la necesidad de justificación y aprobación. Es precisa y completa en los pasos a seguir, aunque podría incluir más detalles sobre cómo obtener la aprobación."
+    }
+  },
+  {
+    "user_question": "¿Cómo funcionan las evaluaciones de desempeño?",
+    "system_answer": "Las evaluaciones de desempeño funcionan a través de métricas de desempeño cuantitativas y cualitativas. Se analizan objetivos individuales y de equipo, y los resultados obtenidos son utilizados para decisiones estratégicas.",
+    "chunks_related": [
+      {
+        "content": "--- Evaluaciones avanzadas ---\nLas evaluaciones avanzadas incluyen métricas de desempeño cuantitativas y cualitativas.\nSe analizan objetivos individuales y de equipo.\nLos resultados son utilizados para decisiones estratégicas.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "--- Promociones ---\nLas promociones se basan en:\n- Evaluaciones de desempeño\n- Antigüedad\n- Resultados obtenidos\n\n--- Ajustes salariales ---\nLos ajustes salariales se revisan anualmente.\nSe consideran inflación y desempeño.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "5. Gestión de ausencias\n\nEl sistema permite registrar distintos tipos de ausencias:\n\n- Enfermedad\n- Licencia especial\n- Permisos personales\n\nCada ausencia debe ser justificada y aprobada.\n\n6. Evaluaciones de desempeño\n\nLos managers pueden evaluar a sus equipos mediante formularios configurables.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 9,
+      "justification": "La respuesta es relevante y utiliza correctamente el contexto proporcionado, mencionando métricas cuantitativas y cualitativas, así como el análisis de objetivos. Es precisa y completa en su explicación sobre cómo funcionan las evaluaciones de desempeño, aunque podría incluir más detalles sobre el proceso específico de evaluación."
+    }
+  },
+  {
+    "user_question": "¿Cómo cambio mi contraseña?",
+    "system_answer": "Para cambiar tu contraseña, debes hacerlo desde el perfil de usuario.",
+    "chunks_related": [
+      {
+        "content": "23. FAQ extendido\n\n¿Cómo cambio mi contraseña? Desde perfil de usuario.\n\n¿Cómo contacto soporte? Desde el panel de ayuda.\n\n24. Buenas prácticas\n\n- Mantener datos actualizados\n- Revisar notificaciones\n- Seguir políticas internas\n\n25. Conclusión",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "8. Seguridad y acceso\n\nEl sistema utiliza autenticación segura y cifrado de datos.\n\nSe recomienda:\n- No compartir credenciales\n- Usar contraseñas seguras\n- Activar doble factor\n\n9. Problemas comunes\n\nNo puedo iniciar sesión: Verificar usuario y contraseña.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "El sistema es accesible desde cualquier navegador web y también cuenta con autenticación segura mediante credenciales corporativas.\n\n2. Gestión de usuarios\n\nLos administradores pueden crear, editar y eliminar usuarios dentro del sistema. Cada usuario tiene un rol asignado:",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 7,
+      "justification": "La respuesta es relevante y directa, indicando que el cambio de contraseña se realiza desde el perfil de usuario. Sin embargo, carece de detalles adicionales sobre el proceso, como pasos específicos o advertencias, lo que afecta la completitud. El contexto se utiliza correctamente al referirse a la FAQ, pero podría haberse extraído más información para mejorar la precisión y la completitud de la respuesta."
+    }
+  },
+  {
+    "user_question": "¿Qué tipos de ausencias existen?",
+    "system_answer": "Los tipos de ausencias que existen son:\n\n- Enfermedad\n- Licencia especial\n- Permisos personales\n\nCada ausencia debe ser justificada y aprobada.",
+    "chunks_related": [
+      {
+        "content": "5. Gestión de ausencias\n\nEl sistema permite registrar distintos tipos de ausencias:\n\n- Enfermedad\n- Licencia especial\n- Permisos personales\n\nCada ausencia debe ser justificada y aprobada.\n\n6. Evaluaciones de desempeño\n\nLos managers pueden evaluar a sus equipos mediante formularios configurables.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "4. Políticas de vacaciones\n\nLas vacaciones se calculan en función de la antigüedad del empleado:\n\n- Menos de 1 año: 10 días\n- 1 a 5 años: 15 días\n- Más de 5 años: 20 días\n\nLas políticas pueden variar según la empresa.\n\n5. Gestión de ausencias",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "--- Notificaciones ---\nLos empleados reciben notificaciones por email y dentro del sistema.\n\n--- Roles y permisos ---\nExisten distintos niveles de acceso según el rol del usuario.\n\n--- Reportes ---\nEl sistema permite generar reportes de:\n- Ausencias\n- Vacaciones\n- Desempeño",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 10,
+      "justification": "La respuesta es completamente relevante y precisa, ya que enumera correctamente los tipos de ausencias mencionados en el contexto. Además, utiliza el contexto de manera adecuada al incluir la información sobre la justificación y aprobación de las ausencias, lo que aporta completitud a la respuesta."
+    }
+  },
+  {
+    "user_question": "¿Cómo contacto soporte?",
+    "system_answer": "Puedes contactar soporte desde el panel de ayuda.",
+    "chunks_related": [
+      {
+        "content": "No veo mis vacaciones: Puede deberse a permisos o errores de sincronización.\n\n10. Procedimiento de soporte\n\nSi el usuario tiene problemas:\n\n1. Revisar FAQs\n2. Contactar soporte\n3. Generar ticket\n\n11. Integraciones\n\nEl sistema puede integrarse con:",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "23. FAQ extendido\n\n¿Cómo cambio mi contraseña? Desde perfil de usuario.\n\n¿Cómo contacto soporte? Desde el panel de ayuda.\n\n24. Buenas prácticas\n\n- Mantener datos actualizados\n- Revisar notificaciones\n- Seguir políticas internas\n\n25. Conclusión",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "8. Seguridad y acceso\n\nEl sistema utiliza autenticación segura y cifrado de datos.\n\nSe recomienda:\n- No compartir credenciales\n- Usar contraseñas seguras\n- Activar doble factor\n\n9. Problemas comunes\n\nNo puedo iniciar sesión: Verificar usuario y contraseña.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 9,
+      "justification": "La respuesta es relevante y precisa, ya que indica claramente cómo contactar soporte. Utiliza correctamente el contexto, ya que se encuentra en la sección de FAQs donde se menciona específicamente el método para contactar soporte. Sin embargo, podría ser más completa al incluir información adicional sobre el proceso, como la posibilidad de generar un ticket o revisar FAQs antes de contactar."
+    }
+  },
+  {
+    "user_question": "¿Cómo se gestionan los documentos?",
+    "system_answer": "Los documentos se gestionan de la siguiente manera:\n\n- Los empleados pueden subir documentos personales como DNI, contratos y certificados.\n- Los documentos se almacenan de forma segura.",
+    "chunks_related": [
+      {
+        "content": "El proceso incluye:\n\n- Autoevaluación\n- Evaluación del manager\n- Feedback final\n\n7. Gestión de documentos\n\nLos empleados pueden subir documentos personales como:\n\n- DNI\n- Contratos\n- Certificados\n\nLos documentos se almacenan de forma segura.\n\n8. Seguridad y acceso",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "Los administradores pueden configurar:\n\n- Políticas\n- Roles\n- Permisos\n\n16. Notificaciones\n\nEl sistema envía notificaciones por:\n\n- Email\n- Plataforma\n\n17. Calendario\n\nIncluye eventos como:\n\n- Vacaciones\n- Feriados\n- Ausencias\n\n18. Auditoría\n\nSe registran acciones del sistema para trazabilidad.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "Incluye:\n- Creación de usuario\n- Asignación de tareas\n- Documentación inicial\n\n14. Offboarding\n\nEl offboarding gestiona la salida de empleados:\n\n- Baja de accesos\n- Liquidaciones\n- Documentación final\n\n15. Configuración del sistema\n\nLos administradores pueden configurar:",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 9,
+      "justification": "La respuesta es relevante y utiliza correctamente el contexto proporcionado, mencionando específicamente los tipos de documentos que los empleados pueden subir y que se almacenan de forma segura. La precisión es alta, ya que refleja fielmente la información del contexto. Sin embargo, podría mejorar en completitud al no mencionar aspectos adicionales de la gestión de documentos que podrían ser relevantes, como el acceso o la seguridad más allá del almacenamiento."
+    }
+  },
+  {
+    "user_question": "¿Qué políticas de vacaciones existen?",
+    "system_answer": "Las políticas de vacaciones se calculan en función de la antigüedad del empleado:\n\n- Menos de 1 año: 10 días\n- 1 a 5 años: 15 días\n- Más de 5 años: 20 días\n\nEs importante tener en cuenta que las políticas pueden variar según la empresa.",
+    "chunks_related": [
+      {
+        "content": "4. Políticas de vacaciones\n\nLas vacaciones se calculan en función de la antigüedad del empleado:\n\n- Menos de 1 año: 10 días\n- 1 a 5 años: 15 días\n- Más de 5 años: 20 días\n\nLas políticas pueden variar según la empresa.\n\n5. Gestión de ausencias",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "3. Solicitudes de vacaciones\n\nLos empleados pueden solicitar vacaciones desde el módulo correspondiente. El proceso es el siguiente:\n\n1. Ingresar a la sección \"Vacaciones\"\n2. Seleccionar fechas\n3. Enviar solicitud\n\nEl manager recibirá una notificación para aprobar o rechazar.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      },
+      {
+        "content": "--- Encuestas ---\nSe pueden enviar encuestas internas para medir clima laboral.\n\n--- Bienestar ---\nLa empresa promueve programas de bienestar y salud mental.\n\n--- Work-life balance ---\nSe fomenta el equilibrio entre vida laboral y personal.",
+        "metadata": {
+          "source": "C:\\Dev\\P2-SoporteCliente\\data\\faq_document.txt"
+        }
+      }
+    ],
+    "evaluation": {
+      "score": 10,
+      "justification": "La respuesta es completamente relevante y precisa respecto a la pregunta sobre las políticas de vacaciones, utilizando correctamente el contexto proporcionado. Además, la información es completa al detallar los días de vacaciones según la antigüedad y mencionar que las políticas pueden variar según la empresa."
+    }
+  }
+]

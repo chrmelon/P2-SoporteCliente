@@ -1,0 +1,249 @@
+HR SaaS - Documentación de FAQs Internas
+
+1. Introducción a la plataforma
+
+La plataforma HR SaaS está diseñada para centralizar y automatizar la gestión de recursos humanos dentro de una organización. Permite a los equipos de RRHH administrar empleados, gestionar solicitudes, automatizar procesos y mejorar la experiencia del colaborador.
+
+El sistema es accesible desde cualquier navegador web y también cuenta con autenticación segura mediante credenciales corporativas.
+
+2. Gestión de usuarios
+
+Los administradores pueden crear, editar y eliminar usuarios dentro del sistema. Cada usuario tiene un rol asignado:
+
+- Administrador
+- Manager
+- Empleado
+
+Los permisos dependen del rol. Por ejemplo, los empleados pueden ver su información personal, mientras que los administradores tienen acceso completo.
+
+3. Solicitudes de vacaciones
+
+Los empleados pueden solicitar vacaciones desde el módulo correspondiente. El proceso es el siguiente:
+
+1. Ingresar a la sección "Vacaciones"
+2. Seleccionar fechas
+3. Enviar solicitud
+
+El manager recibirá una notificación para aprobar o rechazar.
+
+4. Políticas de vacaciones
+
+Las vacaciones se calculan en función de la antigüedad del empleado:
+
+- Menos de 1 año: 10 días
+- 1 a 5 años: 15 días
+- Más de 5 años: 20 días
+
+Las políticas pueden variar según la empresa.
+
+5. Gestión de ausencias
+
+El sistema permite registrar distintos tipos de ausencias:
+
+- Enfermedad
+- Licencia especial
+- Permisos personales
+
+Cada ausencia debe ser justificada y aprobada.
+
+6. Evaluaciones de desempeño
+
+Los managers pueden evaluar a sus equipos mediante formularios configurables.
+
+El proceso incluye:
+
+- Autoevaluación
+- Evaluación del manager
+- Feedback final
+
+7. Gestión de documentos
+
+Los empleados pueden subir documentos personales como:
+
+- DNI
+- Contratos
+- Certificados
+
+Los documentos se almacenan de forma segura.
+
+8. Seguridad y acceso
+
+El sistema utiliza autenticación segura y cifrado de datos.
+
+Se recomienda:
+- No compartir credenciales
+- Usar contraseñas seguras
+- Activar doble factor
+
+9. Problemas comunes
+
+No puedo iniciar sesión: Verificar usuario y contraseña.
+
+No veo mis vacaciones: Puede deberse a permisos o errores de sincronización.
+
+10. Procedimiento de soporte
+
+Si el usuario tiene problemas:
+
+1. Revisar FAQs
+2. Contactar soporte
+3. Generar ticket
+
+11. Integraciones
+
+El sistema puede integrarse con:
+
+- Sistemas de nómina
+- Herramientas de comunicación
+- Sistemas ERP
+
+12. Reportes
+
+Se pueden generar reportes sobre:
+
+- Ausencias
+- Vacaciones
+- Desempeño
+
+13. Onboarding
+
+El onboarding permite automatizar la incorporación de nuevos empleados.
+
+Incluye:
+- Creación de usuario
+- Asignación de tareas
+- Documentación inicial
+
+14. Offboarding
+
+El offboarding gestiona la salida de empleados:
+
+- Baja de accesos
+- Liquidaciones
+- Documentación final
+
+15. Configuración del sistema
+
+Los administradores pueden configurar:
+
+- Políticas
+- Roles
+- Permisos
+
+16. Notificaciones
+
+El sistema envía notificaciones por:
+
+- Email
+- Plataforma
+
+17. Calendario
+
+Incluye eventos como:
+
+- Vacaciones
+- Feriados
+- Ausencias
+
+18. Auditoría
+
+Se registran acciones del sistema para trazabilidad.
+
+19. Privacidad de datos
+
+Cumple con regulaciones de protección de datos.
+
+20. Escalabilidad
+
+El sistema soporta múltiples empresas y usuarios.
+
+21. API
+
+Permite integración con sistemas externos mediante API REST.
+
+22. Mantenimiento
+
+Se realizan actualizaciones periódicas.
+
+23. FAQ extendido
+
+¿Cómo cambio mi contraseña? Desde perfil de usuario.
+
+¿Cómo contacto soporte? Desde el panel de ayuda.
+
+24. Buenas prácticas
+
+- Mantener datos actualizados
+- Revisar notificaciones
+- Seguir políticas internas
+
+25. Conclusión
+
+La plataforma HR SaaS permite optimizar la gestión de recursos humanos, mejorar la eficiencia y brindar una mejor experiencia al empleado.
+
+--- Evaluaciones avanzadas ---
+Las evaluaciones avanzadas incluyen métricas de desempeño cuantitativas y cualitativas.
+Se analizan objetivos individuales y de equipo.
+Los resultados son utilizados para decisiones estratégicas.
+
+--- Feedback continuo ---
+Los empleados pueden recibir feedback en cualquier momento.
+El sistema permite comentarios en tiempo real.
+
+--- Gestión de objetivos ---
+Los empleados deben cargar sus objetivos trimestrales en el sistema.
+Estos objetivos son evaluados periódicamente.
+
+--- Promociones ---
+Las promociones se basan en:
+- Evaluaciones de desempeño
+- Antigüedad
+- Resultados obtenidos
+
+--- Ajustes salariales ---
+Los ajustes salariales se revisan anualmente.
+Se consideran inflación y desempeño.
+
+--- Licencias extendidas ---
+Los empleados pueden solicitar licencias extendidas sin goce de sueldo.
+Estas deben ser aprobadas por RRHH.
+
+--- Portal mobile ---
+El sistema HR SaaS cuenta con versión mobile.
+Permite gestionar solicitudes desde el celular.
+
+--- Seguridad avanzada ---
+El sistema incluye monitoreo de accesos y alertas de seguridad.
+
+--- Auditorías ---
+Se realizan auditorías internas para verificar el cumplimiento de políticas.
+
+--- Integraciones ---
+El sistema se integra con herramientas externas como ERP y sistemas contables.
+
+--- Notificaciones ---
+Los empleados reciben notificaciones por email y dentro del sistema.
+
+--- Roles y permisos ---
+Existen distintos niveles de acceso según el rol del usuario.
+
+--- Reportes ---
+El sistema permite generar reportes de:
+- Ausencias
+- Vacaciones
+- Desempeño
+
+--- Encuestas ---
+Se pueden enviar encuestas internas para medir clima laboral.
+
+--- Bienestar ---
+La empresa promueve programas de bienestar y salud mental.
+
+--- Work-life balance ---
+Se fomenta el equilibrio entre vida laboral y personal.
+
+--- Reconocimientos ---
+Los empleados pueden recibir reconocimientos por logros.
+
+--- Gamificación ---
+El sistema incluye elementos de gamificación para motivar a los empleados.

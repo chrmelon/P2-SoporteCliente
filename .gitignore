@@ -1,0 +1,134 @@
+# ── Credenciales y secretos ────────────────────────────────────────
+# NUNCA subir claves ni archivos de credenciales al repositorio.
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.envrc
+# Los .env.example SÍ se commitean — plantillas sin valores reales
+!.env.example
+!**/.env.example
+
+# Google Cloud — service account keys
+*service-account*.json
+*service_account*.json
+*credentials*.json
+*-key.json
+application_default_credentials.json
+
+# ── Bases de datos vectoriales (ChromaDB, etc.) ────────────────────
+# Generadas localmente por el pipeline RAG — muy grandes y binarias.
+*.bin
+*.sqlite3
+*.sqlite
+*.db
+chroma_db/
+**/chroma_db/
+
+# ── Entornos virtuales ────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.pixi/
+__pypackages__/
+
+# ── Python cache ──────────────────────────────────────────────────
+__pycache__/
+*.py[codz]
+*.pyo
+*.pyd
+*$py.class
+*.pyc
+*.pycache
+
+# ── uv / packaging ────────────────────────────────────────────────
+# uv.lock SÍ se incluye para reproducibilidad en producción.
+# En cursos/demos se puede comentar la siguiente línea:
+# uv.lock
+.pdm-python
+.pdm-build/
+*.egg-info/
+*.egg
+MANIFEST
+dist/
+build/
+wheels/
+.installed.cfg
+
+# ── Jupyter ───────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Testing y coverage ────────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+nosetests.xml
+
+# ── IDEs y editores ───────────────────────────────────────────────
+.idea/
+.vscode/settings.json
+.vscode/.ropeproject
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+
+# ── macOS ─────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Windows ───────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ── Logs ──────────────────────────────────────────────────────────
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+local_settings.py
+
+# ── Otros artefactos de construcción ─────────────────────────────
+*.mo
+*.pot
+*.manifest
+*.spec
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+.ruff_cache/
+.hypothesis/
+.pypirc
+
+# ── Herramientas específicas ──────────────────────────────────────
+.abstra/
+.cursorignore
+.cursorindexingignore
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# ── Archivos temporales del curso ────────────────────────────────
+*.tmp
+*.temp
+/site
+docs/_build/
+
+
